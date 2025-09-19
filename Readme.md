@@ -1,7 +1,9 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/09e36ae4-76f8-4feb-a918-553648870c40" height="100" width="100"> 
+</div>
 
-![Image](https://github.com/user-attachments/assets/09e36ae4-76f8-4feb-a918-553648870c40)
-# UNES Universidade
 
+## Unes Universidade
 Um site institucional simples para uma universidade fictícia, desenvolvido com HTML puro como parte de um exercício de aprendizado.
 
 ## 📋 Sobre o projeto
