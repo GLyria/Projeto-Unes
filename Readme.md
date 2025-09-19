@@ -1,3 +1,5 @@
+
+
 # UNES Universidade
 
 Um site institucional simples para uma universidade fictícia, desenvolvido com HTML puro como parte de um exercício de aprendizado.
@@ -18,7 +20,7 @@ O UNES Universidade é um site estático composto por três páginas principais:
 
 ## 📁 Estrutura do projeto
 
-
+<img width="434" height="232" alt="Image" src="https://github.com/user-attachments/assets/2bb9a4a6-9084-4ee8-ac44-8f6ac606daf0" />
 
 
 ## ✨ Funcionalidades
