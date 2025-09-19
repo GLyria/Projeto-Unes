@@ -17,16 +17,9 @@ O UNES Universidade é um site estático composto por três páginas principais:
 - Imagens estáticas
 
 ## 📁 Estrutura do projeto
-projeto-unes/
-│
-├── index.html # Página inicial
-├── quem-somos.html # Página institucional
-├── contato.html # Página de contato
-└── imagens/ # Pasta de assets
-├── logo.png
-├── capa.png
-├── fundo.png
-└── fundo2.png
+
+
+
 
 ## ✨ Funcionalidades
 
