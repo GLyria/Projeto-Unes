@@ -46,4 +46,14 @@ Este projeto foi desenvolvido com fins educacionais para praticar:
 - Criação de formulários
 - Implementação de navegação entre páginas
 
-É um exemplo de website institucional básico, seguindo técnicas mais tradicionais de desenvolvimento web.
+  ## Demonstração
+  ***Home***
+  <img width="1869" height="925" alt="Image" src="https://github.com/user-attachments/assets/80c6ddb9-a90b-4f58-95a5-821848c8bc88" />
+
+  ***Quem Somos***
+  <img width="1869" height="919" alt="Image" src="https://github.com/user-attachments/assets/96bc3c9e-21c2-466f-980a-f7bec0f31619" />
+  
+  ***Contato***
+  <img width="1862" height="919" alt="Image" src="https://github.com/user-attachments/assets/27d7e2e7-764b-4b33-9fa7-551672e3abd7" />
+  
+  ### É um exemplo de website institucional básico, seguindo técnicas mais tradicionais de desenvolvimento web.
